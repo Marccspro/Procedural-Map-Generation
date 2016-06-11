@@ -116,9 +116,9 @@ public class MainRenderer
 
         lightDebugRenderer.render(lights, mainCamera.getProjection());
 
-//        glDisable(GL_DEPTH_TEST);
-//        renderGui();
-//        glEnable(GL_DEPTH_TEST);
+        glDisable(GL_DEPTH_TEST);
+        renderGui();
+        glEnable(GL_DEPTH_TEST);
     }
 
     public void renderScene(Light light, Mat4 projectionMatrix)
