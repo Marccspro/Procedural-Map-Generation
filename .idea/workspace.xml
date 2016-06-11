@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a54f0a68-2c71-4932-9034-c39b442f701a" name="Default" comment="" />
+    <list default="true" id="a54f0a68-2c71-4932-9034-c39b442f701a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Procedural-Map-Generation.iml" afterPath="$PROJECT_DIR$/.idea/Procedural-Map-Generation.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/lights/AmbientLight.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/lights/AmbientLight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/lights/DirectionalLight.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/lights/DirectionalLight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/lights/Light.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/lights/Light.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Mat4.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Mat4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Mathf.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Mathf.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Quat.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Quat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Transform.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Transform.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Vec2.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Vec2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Vec2i.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Vec2i.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Vec3.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Vec3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Vec3i.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Vec3i.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Vec4.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Vec4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Vec4i.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/maths/Vec4i.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Camera.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Camera.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Cubemap.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Cubemap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Framebuffer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Framebuffer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/LightShader.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/LightShader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Material.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Material.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Mesh.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Mesh.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/MeshRenderer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/MeshRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Model.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Model.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/ModelRenderer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/ModelRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Renderer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Renderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Shader.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Shader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Texture.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Texture.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Vertex.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Vertex.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/debug/LightDebugRenderer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/debug/LightDebugRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/shadow/ShadowFramebuffer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/shadow/ShadowFramebuffer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/shadow/ShadowRenderer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/shadow/ShadowRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/utils/BufferUtil.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/utils/BufferUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/engine/utils/Color4f.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/engine/utils/Color4f.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/Main.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/Terrain.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/Terrain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/GrassCeilRenderer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/GrassCeilRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/MainRenderer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/MainRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/QuadRenderer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/QuadRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/RoadRenderer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/RoadRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/SkyboxRenderer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/SkyboxRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/SpherePrimitive.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/SpherePrimitive.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/TerrainMesh.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/TerrainMesh.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/TreeRenderer.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/TreeRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/Triangle.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/rendering/Triangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/House.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/House.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/OldCity.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/OldCity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/OldWorldGeneration.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/OldWorldGeneration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/Road.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/Road.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/noise/Noise.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/noise/Noise.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/noise/NoiseGeneration.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/noise/NoiseGeneration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/noise/NoisePass.java" afterPath="$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/noise/NoisePass.java" />
+    </list>
     <ignored path="TerrainGen.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,16 +73,83 @@
   <component name="FavoritesManager">
     <favorites_list name="TerrainGen" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Terrain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fr/veridiangames/main/Terrain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#9647#9648#0" expanded="false" />
+                <element signature="e#9676#9677#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="House.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/House.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1303#1304#0" expanded="false" />
+                <element signature="e#1334#1335#0" expanded="false" />
+                <element signature="e#1372#1373#0" expanded="false" />
+                <element signature="e#1407#1408#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fr/veridiangames/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Camera.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Camera.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/fr/veridiangames/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Camera.java" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1084" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -56,34 +177,105 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TerrainGen" />
+              <option name="myItemId" value="Procedural-Map-Generation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TerrainGen" />
+              <option name="myItemId" value="Procedural-Map-Generation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TerrainGen" />
+              <option name="myItemId" value="Procedural-Map-Generation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procedural-Map-Generation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procedural-Map-Generation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veridiangames" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procedural-Map-Generation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procedural-Map-Generation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veridiangames" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="world_generation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procedural-Map-Generation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Procedural-Map-Generation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veridiangames" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/native" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Game">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -318,6 +510,24 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="false" name="Game" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="fr.veridiangames.main.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Procedural-Map-Generation" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Game" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -336,33 +546,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1084" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -383,5 +593,173 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/fr/veridiangames/main/Terrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#9647#9648#0" expanded="false" />
+            <element signature="e#9676#9677#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1303#1304#0" expanded="false" />
+            <element signature="e#1334#1335#0" expanded="false" />
+            <element signature="e#1372#1373#0" expanded="false" />
+            <element signature="e#1407#1408#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/veridiangames/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/veridiangames/main/Terrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#9647#9648#0" expanded="false" />
+            <element signature="e#9676#9677#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/veridiangames/main/world_generation/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1303#1304#0" expanded="false" />
+            <element signature="e#1334#1335#0" expanded="false" />
+            <element signature="e#1372#1373#0" expanded="false" />
+            <element signature="e#1407#1408#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/veridiangames/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/veridiangames/engine/rendering/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>GNU 3.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Procedural-Map-Generation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>native</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
